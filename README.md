@@ -40,8 +40,8 @@ Steve Jobs
 
 DiY Advanced Track @ [Advanced Track](advanced.md) 
 
-## [Would you trust an AI?](https://github.com/orgs/wadwc/discussions/2)
+## [Would you trust an AI?](https://github.com/orgs/ActionAgents/discussions/1)
 
-## [Whats your use case?](https://github.com/orgs/wadwc/discussions/4)
+## [Whats your use case?](https://github.com/orgs/ActionAgents/discussions/2)
 
-## [Feedback](https://github.com/orgs/wadwc/discussions/3)
+## [Feedback](https://github.com/orgs/ActionAgents/discussions/3)
