@@ -26,7 +26,7 @@ jobs:
           MODEL: ${{ secrets.MODEL }}
           TITLE: ${{ github.event.issue.title }}
         with:
-          prompt: '{"prompt": ["${{ env.TITLE }} ${{ env.BODY }}, respond in pretty markdown format and use relevant emojis to express yourself."]}'
+          prompt: '{"prompt": ["${{ env.TITLE }} ${{ env.BODY }}"]}'
       - env:
           RESPONSE: ${{ steps.generate-response.outputs.response }}
         run: echo ok
